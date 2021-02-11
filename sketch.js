@@ -10,6 +10,7 @@ function preload() {
     backgroundImg = loadImage("sprites/bg.png");
 }
 // this class is for rudra
+// hope today class was good
 function setup(){
     var canvas = createCanvas(1200,400);
     engine = Engine.create();
